@@ -1,1 +1,2 @@
-# JavaScript-Refresher
+# JavaScript Refresher
+My little repo.
