@@ -37,6 +37,7 @@ for (let i = 0; i < 6; i++){
 }
 console.log(tellMeMyAge)
 console.log(makePizza("meatlovers ","gigantic "));
+
 function difference(){
     let z = 1
 }
